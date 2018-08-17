@@ -8,15 +8,11 @@
     "start": "nodemon server.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/karenengineer/task_for_effortis.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/karenengineer/task_for_effortis/issues"
   },
-  "homepage": "https://github.com/karenengineer/task_for_effortis#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "express": "^4.16.3",
